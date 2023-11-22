@@ -1,0 +1,15 @@
+* {
+  color:dodgerblue
+}
+
+body {
+  background-color: beige;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+  display: block;
+  background-color: burlywood;
+  margin: 0;
+}
+
